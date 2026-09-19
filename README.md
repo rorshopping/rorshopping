@@ -35,3 +35,9 @@ On-device AI — making local models fast and reliable enough to leave the cloud
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rorshopping&locale=en&mode=weekly)
+
+## Support
+
+If you feel like supporting my work :3
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=richardor&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/richardor)
