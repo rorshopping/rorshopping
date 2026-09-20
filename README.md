@@ -42,14 +42,14 @@ On-device AI — making local models fast and reliable enough to leave the cloud
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rorshopping&show_icons=true&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rorshopping&show_icons=true&hide_border=true" />
-    <img alt="Richard's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rorshopping&show_icons=true&hide_border=true" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rorshopping&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rorshopping&theme=github" />
+    <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rorshopping&theme=github" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rorshopping&layout=compact&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rorshopping&layout=compact&hide_border=true" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorshopping&layout=compact&hide_border=true" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rorshopping&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rorshopping&theme=github" />
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rorshopping&theme=github" />
   </picture>
 </p>
 
