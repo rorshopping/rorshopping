@@ -21,6 +21,8 @@ On-device AI — making local models fast and reliable enough to leave the cloud
 
 [![GitHub](https://img.shields.io/badge/GitHub-rorshopping-181717?style=flat&logo=github&logoColor=white)](https://github.com/rorshopping)
 [![openrobots](https://img.shields.io/badge/openrobots-try_it_online-000000?style=flat&logo=vercel&logoColor=white)](https://openrobots.vercel.app)
+![Profile views](https://komarev.com/ghpvc/?username=rorshopping&label=Profile+views&color=0abab5&style=flat)
+![Followers](https://img.shields.io/github/followers/rorshopping?label=Followers&style=flat&logo=github)
 
 ## Languages and Tools
 
@@ -38,7 +40,36 @@ On-device AI — making local models fast and reliable enough to leave the cloud
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rorshopping&locale=en&mode=weekly)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rorshopping&show_icons=true&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rorshopping&show_icons=true&hide_border=true" />
+    <img alt="Richard's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rorshopping&show_icons=true&hide_border=true" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rorshopping&layout=compact&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rorshopping&layout=compact&hide_border=true" />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorshopping&layout=compact&hide_border=true" height="165" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rorshopping&locale=en&mode=weekly&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rorshopping&locale=en&mode=weekly" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=rorshopping&locale=en&mode=weekly" />
+  </picture>
+</p>
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rorshopping/rorshopping/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rorshopping/rorshopping/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/rorshopping/rorshopping/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ## Support
 
