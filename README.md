@@ -55,7 +55,7 @@ On-device AI — making local models fast and reliable enough to leave the cloud
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rorshopping&locale=en&mode=weekly&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rorshopping&locale=en&mode=weekly&theme=github-dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rorshopping&locale=en&mode=weekly" />
     <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=rorshopping&locale=en&mode=weekly" />
   </picture>
