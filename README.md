@@ -13,6 +13,10 @@ I've been building local-first AI tools and fast developer software — things t
 
 On-device AI — making local models fast and reliable enough to leave the cloud behind.
 
+## Tools I actually pay for
+
+- **[OpenCode Go](https://opencode.ai/go?ref=ZC8YZ38XZA)** — $10/month for open coding models (DeepSeek, GLM, Kimi, Qwen) in any coding agent — my take: `$10 is a steal`. That link gets you **$5 extra usage** (and me $5 too).
+
 ## Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-rorshopping-181717?style=flat&logo=github&logoColor=white)](https://github.com/rorshopping)
